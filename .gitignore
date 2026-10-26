@@ -6,6 +6,15 @@
 # Logs
 *.log
 
+# Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+
+# Runtime data
+data/
+
 # OS metadata
 .DS_Store
 Thumbs.db
